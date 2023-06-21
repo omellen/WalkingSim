@@ -1,0 +1,4 @@
+ myState = "IDLE";
+
+right = true;
+

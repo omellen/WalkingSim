@@ -1,0 +1,4 @@
+myState = "LEFT";
+
+right = false;
+
